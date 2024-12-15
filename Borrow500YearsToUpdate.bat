@@ -117,7 +117,7 @@ goto:eof
 :enter
 echo %fgx%
 echo on
-echo reg add "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\WindowsUpdate\UX\Settings" /v FlightSettingsMaxPauseDays /t reg_dword /%pausedays% /f
+reg add "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\WindowsUpdate\UX\Settings" /v FlightSettingsMaxPauseDays /t reg_dword /%pausedays% /f
 @echo off
 echo %fgx%
 echo %fns%
