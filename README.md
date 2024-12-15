@@ -1,5 +1,5 @@
 # 向天再借500年(指Windows更新)
-
+*提示：需要使用该工具请不要直接从项目文件中下载，因为这可能是正在开发中的半成品。请前往[release](https://github.com/HuskeyDev/Borrow500YearsToUpdate/releases)下载最新发放版本使用*
 一个初中学生开发的虽然很垃圾但绝对无副作用且有效的Windows更新禁止工具
 
 > 本人英语不好，项目英文名是随便意译的，不要在意这些细节（手动滑稽
